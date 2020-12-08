@@ -27,14 +27,20 @@
 <a href="https://www.facebook.com/manohar.dungeon.master/">
   <img align="left" alt="Manohar's facebook" width="22px" src="https://image.flaticon.com/icons/png/512/59/59439.png" />
 </a>
-
-
+<br />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manohar2000.manohar2000)
 
 <br />
 
-Hi, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in computer science from Bennett University.
-Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 
+Hi🙋‍♂️, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in computer science from Bennett University.
+Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="320" />
+
+**Talking about myself**
+- I love to work on AI and Robotics based projects.🤖
+- Consistent, Disciplined and Hard-working.💯
+- I love to travel🚗, talk to people🤝 and play chess♟ and football.⚽️ 
+- Reach me: [@KunchanapalliManohar](maohar502@gmail.com)📩
+- [@Resume](https://drive.google.com/drive/folders/12n0YKRmNHV6QdsvDen5IaLGIwRRBiqIC?usp=sharing) 📝
 

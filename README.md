@@ -37,7 +37,8 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="320" />
 
-**Talking about myself**
+**Talking about myself:**
+
 - I love to work on AI and Robotics based projects. 🤖
 - Consistent, Disciplined and Hard-working. 💯
 - I love to travel 🚗, talk to people 🤝 and play chess ♟ and football. ⚽️ 

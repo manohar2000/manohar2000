@@ -32,15 +32,24 @@
 
 <br />
 
-Hi🙋‍♂️, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in computer science from Bennett University.
+Hi 🙋‍♂️, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in computer science from Bennett University.
 Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="320" />
 
 **Talking about myself**
-- I love to work on AI and Robotics based projects.🤖
-- Consistent, Disciplined and Hard-working.💯
-- I love to travel🚗, talk to people🤝 and play chess♟ and football.⚽️ 
-- Reach me: [@KunchanapalliManohar](maohar502@gmail.com)📩
+- I love to work on AI and Robotics based projects. 🤖
+- Consistent, Disciplined and Hard-working. 💯
+- I love to travel 🚗, talk to people 🤝 and play chess ♟ and football. ⚽️ 
+- Reach me: [@KunchanapalliManohar](maohar502@gmail.com) 📩
 - [@Resume](https://drive.google.com/drive/folders/12n0YKRmNHV6QdsvDen5IaLGIwRRBiqIC?usp=sharing) 📝
 
+**Languages and Tools*
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Gazebo_logo.svg/1024px-Gazebo_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png"></code>

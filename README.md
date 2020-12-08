@@ -39,9 +39,9 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 
 **Talking about myself:**
 
-- I love to work on AI and Robotics based projects. 🤖
+- I like to work on AI and Robotics based projects. 🤖
 - Consistent, Disciplined and Hard-working. 💯
-- I love to travel 🚗, talk to people 🤝 and play chess ♟ and football. ⚽️ 
+- I love to travel 🚗, talk to people 🤝, play chess ♟ and football. ⚽️ 
 - Reach me: [@KunchanapalliManohar](maohar502@gmail.com) 📩
 - [@Resume](https://drive.google.com/drive/folders/12n0YKRmNHV6QdsvDen5IaLGIwRRBiqIC?usp=sharing) 📝
 
@@ -56,6 +56,6 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Gazebo_logo.svg/1024px-Gazebo_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png"></code>
 
-
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true&theme=radical" alt="Manohar's github stats" />
 

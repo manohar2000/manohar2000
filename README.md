@@ -55,3 +55,8 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Gazebo_logo.svg/1024px-Gazebo_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png"></code>
+
+
+📈 My GitHub Stats
+
+<p align="center"> ![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true)

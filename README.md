@@ -1,4 +1,4 @@
-### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there!! 🙋‍♂️ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/manohar2000/">
   <img align="left" alt="Manohar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,7 +30,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manohar2000.manohar2000)
 
-Hi 🙋‍♂️, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in Computer Science from Bennett University.
+I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in Computer Science from Bennett University.
 I am the Ex-Joint Secretary and the Current Mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="280" />

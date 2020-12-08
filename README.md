@@ -36,3 +36,4 @@ Hi, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,
 Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="320" />
+

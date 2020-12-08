@@ -45,7 +45,8 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 - Reach me: [@KunchanapalliManohar](maohar502@gmail.com) 📩
 - [@Resume](https://drive.google.com/drive/folders/12n0YKRmNHV6QdsvDen5IaLGIwRRBiqIC?usp=sharing) 📝
 
-**Languages and Tools*
+**Languages and Tools:**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>

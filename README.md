@@ -56,7 +56,7 @@ I am the Ex-Joint Secretary and the Current Mentor at [@Technotix](https://www.i
 
 <br />
 <br />
-<p float="right">  
-<img src="https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true&theme=radical" alt="Manohar's github stats" width="500" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar2000&layout=compact&count_private=true&theme=radical&langs_count=5" alt="Manohar's top languages" width="420" />
+<p float="left">  
+<img src="https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true&theme=radical" alt="Manohar's github stats" width="100px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar2000&layout=compact&count_private=true&theme=radical&langs_count=5" alt="Manohar's top languages" width="100px" />
 </p>

@@ -28,6 +28,7 @@
   <img align="left" alt="Manohar's facebook" width="22px" src="https://image.flaticon.com/icons/png/512/59/59439.png" />
 </a>
 
+<br />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manohar2000.manohar2000)
 
 <br />

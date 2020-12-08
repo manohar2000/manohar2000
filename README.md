@@ -35,7 +35,7 @@ I am the Ex-Joint Secretary and the Current Mentor at [@Technotix](https://www.i
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="280" />
 
-**Talking about myself:**
+**A bit about myself:**
 
 - I like to work on AI and Robotics based projects. 🤖
 - Consistent, Disciplined and Hard-working. 💯

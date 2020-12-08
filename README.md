@@ -59,5 +59,5 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 
 **My GitHub Stats📈 **
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true" alt="Manohar's github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true&theme=radical" alt="Manohar's github stats" />
 

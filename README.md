@@ -30,8 +30,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manohar2000.manohar2000)
 
-Hi 🙋‍♂️, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in computer science from Bennett University.
-Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
+Hi 🙋‍♂️, I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in Computer Science from Bennett University.
+I was the Ex-Joint Secretary and the current mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="280" />
 
@@ -56,7 +56,7 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 
 <br />
 <br />
-<p float="center">  
+<p float="right">  
 <img src="https://github-readme-stats.vercel.app/api?username=manohar2000&count_private=true&theme=radical" alt="Manohar's github stats" width="500" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar2000&layout=compact&count_private=true&theme=radical&langs_count=5" alt="Manohar's top languages" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar2000&layout=compact&count_private=true&theme=radical&langs_count=5" alt="Manohar's top languages" width="420" />
 </p>

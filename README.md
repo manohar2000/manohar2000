@@ -57,7 +57,7 @@ Ex-Joint Secretary and current mentor at [@Technotix](https://www.instagram.com/
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png"></code>
 
 
-📈 My GitHub Stats
+**My GitHub Stats📈 **
 
-![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=manohar2000&show_icons=true&theme=radical)
+<p align="center"> ![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=manohar2000&show_icons=true&theme=radical)
 

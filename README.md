@@ -29,8 +29,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manohar2000.manohar2000)
 
-I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in Computer Science from Bennett University.
-Ex-Joint Secretary and the Current Mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
+I am Kunchanapalli Manohar, a AI and Robotics enthusiast from Greater Noida,India. I am currently pursuing BTech in Computer Science from Bennett University and working as an intern with Here Technologies. Also acted as the Joint Secretary and Mentor at [@Technotix](https://www.instagram.com/technotix_bennett/) 👨‍💻
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="450" height="280" />
 
